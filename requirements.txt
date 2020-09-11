@@ -1,0 +1,8 @@
+adafruit-io
+telegram-bot
+Updater
+CommandHandler
+Client 
+Feed
+Data
+requests
