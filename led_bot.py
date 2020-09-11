@@ -34,4 +34,4 @@ d=dp.add_handler(CommandHandler('on',on))
 k=dp.add_handler(CommandHandler('off',off))
 u.start_polling()
 u.idle()
-  
+
