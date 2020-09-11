@@ -3,7 +3,7 @@ from Adafruit_IO import Client, Feed,Data
 import requests #gets data from cloud
 
 name = "sujithsimha"
-key = "aio_MbaQ268omS800E01OMyePpcJHMEg"
+key = "aio_WkJi64E9A8jSduT8td91LmZaz3h6"
 colour={0:'🔴',
         1:'🟢'}
 
