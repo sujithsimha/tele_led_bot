@@ -3,7 +3,7 @@ from Adafruit_IO import Client, Feed,Data
 import requests #gets data from cloud
 import os
 
-name = os.getenv("sujithsimha")
+name = "sujithsimha"
 key = os.getenv("ADAFRUIT_IO_KEY")
 colour={0:'🔴',
         1:'🟢'}
