@@ -1,7 +1,6 @@
 adafruit-io
 python-telegram-bot
 Updater
-CommandHandler
 Client 
 Feed
 Data
