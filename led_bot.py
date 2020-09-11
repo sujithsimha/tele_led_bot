@@ -1,9 +1,10 @@
 from telegram.ext import Updater,CommandHandler
 from Adafruit_IO import Client, Feed,Data
 import requests #gets data from cloud
+import os
 
-name = "sujithsimha"
-key = "aio_tQaW6711VGu3D4nS7YAFCyr3nIQ8"
+name = os.getenv("ADAFRUIT_IO_USERNAME")
+key = os.getenv("ADAFRUIT_IO_KEY")
 colour={0:'🔴',
         1:'🟢'}
 
