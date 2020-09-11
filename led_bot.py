@@ -5,6 +5,7 @@ import requests #gets data from cloud
 name = "sujithsimha"
 key = "aio_XVRC72ZhlPnVoRqx45orzhRI4URU"
 
+
 colour={0:'🔴',
         1:'🟢'}
 
