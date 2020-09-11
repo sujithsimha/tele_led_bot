@@ -2,6 +2,5 @@ adafruit-io
 python-telegram-bot
 Updater
 Client 
-Feed
 Data
 requests
