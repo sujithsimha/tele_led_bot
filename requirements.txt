@@ -1,5 +1,5 @@
 adafruit-io
-telegram-bot
+python-telegram-bot
 Updater
 CommandHandler
 Client 
